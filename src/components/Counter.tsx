@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 type Counter = {
   count: number;
   handleIncrement: () => void;

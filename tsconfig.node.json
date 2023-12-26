@@ -2,7 +2,8 @@
   "compilerOptions": {
     "composite": true,
     "skipLibCheck": true,
-    "module": "ESNext",
+    "jsx": "react-jsx",
+    "module": "CommonJS",
     "moduleResolution": "bundler",
     "allowSyntheticDefaultImports": true
   },
